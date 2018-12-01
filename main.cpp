@@ -5,10 +5,6 @@
  */
 
 #include "ManagerTerminal.h"
-#include <chrono>
-#include <ctime>
-#include <string>
-#include <sstream>
 
 int main()
 {
